@@ -12,10 +12,10 @@ import (
 	"strings"
 	"time"
 
-	chclient "github.com/jpillora/chisel/client"
-	chserver "github.com/jpillora/chisel/server"
-	chshare "github.com/jpillora/chisel/share"
-	"github.com/jpillora/chisel/share/cos"
+	chclient "github.com/andres-portainer/chisel/client"
+	chserver "github.com/andres-portainer/chisel/server"
+	chshare "github.com/andres-portainer/chisel/share"
+	"github.com/andres-portainer/chisel/share/cos"
 )
 
 var help = `

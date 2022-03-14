@@ -25,7 +25,7 @@ import (
 	"path"
 	"strconv"
 
-	"github.com/jpillora/chisel/share/cnet"
+	"github.com/andres-portainer/chisel/share/cnet"
 
 	"time"
 )

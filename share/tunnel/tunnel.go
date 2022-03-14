@@ -10,10 +10,10 @@ import (
 	"sync"
 	"time"
 
+	"github.com/andres-portainer/chisel/share/cio"
+	"github.com/andres-portainer/chisel/share/cnet"
+	"github.com/andres-portainer/chisel/share/settings"
 	"github.com/armon/go-socks5"
-	"github.com/jpillora/chisel/share/cio"
-	"github.com/jpillora/chisel/share/cnet"
-	"github.com/jpillora/chisel/share/settings"
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/sync/errgroup"
 )
